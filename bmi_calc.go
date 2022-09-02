@@ -1,5 +1,5 @@
 package bmicalc
 
 func SayHello() string {
-	return "Hallo Buooss"
+	return "Hallo Buooss sudah di update ini"
 }
